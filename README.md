@@ -1,5 +1,5 @@
-Small alpine based borg container, see Dockerfile
-=================================================
+Small alpine based ffmpeg container
+===================================
 
 We suggest:
 
